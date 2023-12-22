@@ -1,6 +1,6 @@
 # Multilabel-toxicity-classification-challenge
 
-## This Project aimed at building a multi-label classifier for comments text in online comments dataset (as part of Jigsaw Toxic Comment Classification Challenge : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
+## This Project aimed at building a multi-label classifier for comments text in online comments dataset (as part of Jigsaw Toxic Comment Classification Challenge : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 
 In this Project I experimented with various NLP based classifiers and used Softmax thresholds to identify one of many toxic attributes in text (toxic, severe_toxic, obscene, threat, insult, identity_hate).
